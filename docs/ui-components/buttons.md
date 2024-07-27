@@ -1,5 +1,9 @@
 ---
 layout: default
-title: Test
-nav_order: 2
+title: Buttons
+parent: UI Components
+nav_order: 1
 ---
+
+sdfasdf
+sdafsad
