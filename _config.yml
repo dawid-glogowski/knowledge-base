@@ -8,9 +8,13 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
----
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
----
+# URL settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dawid-glogowski.github.io/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+nav_order: 1
