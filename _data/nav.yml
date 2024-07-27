@@ -1,0 +1,26 @@
+main:
+  - title: "UI Components"
+    url: /docs/ui-components/
+    items:
+      - title: "Buttons"
+        url: /docs/ui-components/buttons/
+      - title: "Code"
+        url: /docs/ui-components/code/
+      - title: "Labels"
+        url: /docs/ui-components/labels/
+      - title: "Tables"
+        url: /docs/ui-components/tables/
+      - title: "Typography"
+        url: /docs/ui-components/typography/
+
+  - title: "Utilities"
+    url: /docs/utilities/
+    items:
+      - title: "Color"
+        url: /docs/utilities/color/
+      - title: "Layout"
+        url: /docs/utilities/layout/
+      - title: "Responsive Modifiers"
+        url: /docs/utilities/responsive-modifiers/
+      - title: "Typography"
+        url: /docs/utilities/typography/
